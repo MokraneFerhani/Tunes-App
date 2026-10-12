@@ -5,7 +5,7 @@ A simple music app built with Flutter. It lets users play different tunes by tap
 ## Preview
 
 <p align="center">
-  <img src="https://github.com/MokraneFerhani/Tunes-App/raw/c794d39593b1e86f963686d4df131dd74c77151a/screenshot.jpeg" width="300" alt="Tunes App screenshot">
+  <img src="https://github.com/MokraneFerhani/Tunes-App/raw/a0adbba7a004d43706b4f9e0957a5608280a7c28/screenshot.jpeg" width="300" alt="Tunes App screenshot">
 </p>
 
 ## Features
