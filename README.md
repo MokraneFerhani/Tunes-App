@@ -20,9 +20,6 @@ A simple music app built with Flutter. It lets users play different tunes by tap
 - Handling taps with `GestureDetector`
 - Playing audio using the `audioplayers` package
 
-## Run
+## Acknowledgment
 
-```bash
-flutter pub get
-flutter run
-```
+This project was built while learning from **Complete Flutter & Dart Development Course [Arabic]** by Tharwat Samy.
