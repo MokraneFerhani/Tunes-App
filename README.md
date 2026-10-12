@@ -1,17 +1,28 @@
-# tunesapp_mine
+# Tunes App
 
-A new Flutter project.
+A simple music app built with Flutter. It lets users play different tunes by tapping on colored items.
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="https://github.com/MokraneFerhani/Tunes-App/raw/c794d39593b1e86f963686d4df131dd74c77151a/screenshot.jpeg" width="300" alt="Tunes App screenshot">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Play a tune by tapping on its item
+- Display tunes with different colors
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## What I learned
+
+- The relationship between models, widgets, and views
+- Using `map()` in a real app to create widgets from a list of tunes
+- Handling taps with `GestureDetector`
+- Playing audio using the `audioplayers` package
+
+## Run
+
+```bash
+flutter pub get
+flutter run
+```
